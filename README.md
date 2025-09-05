@@ -1,11 +1,17 @@
 # Medical Diagnosis
 ## Itroduction 
 Computer vision is an interdisciplinary scientific field that deals with how computers can gain a high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do. We can use Computer Vision to determine whether a person is affected by pneumonia or not.
+
 Computer Vision (CV) has a lot of applications in medical diagnosis:
+
 •	Dermatology
+
 •	Ophthakmology
+
 •	Histopathology.
+
 X-rays images are critical for the detection of lung cancer, pneumenia ... In this notebook you will learn:
+
 •	Data pre-processing
 •	Preprocess images properly for the train, validation and test sets.
 •	Set-up a pre-trained neural network to make disease predictions on chest X-rays.
